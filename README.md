@@ -20,7 +20,7 @@
  Follow these steps to install the application.
 1. Clone the Repository
 ```
-git clone https://github.com/codeninja030/Pharmacy-management-system.git
+git clone https://github.com/tmoodley2/Pharmacy-management-system.git
 ```
 2. Go to project directory
 
@@ -179,20 +179,3 @@ Theme: https://themeforest.net/item/doccure-doctor-appointment-booking-system-bo
 6. When you are notified of the stock, just update the purchased product quantity.
 Or make a new purchase.
 
-![ScreenShot](screenshots/login.png?raw=true "Login page")
-
-![Dashboard](screenshots/dashboard.png?raw=true "Dashbaord page")
-
-![Profile](screenshots/user-profile.png?raw=true "User profile")
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-## Code of Conduct
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-## Security Vulnerabilities
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-## License
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
